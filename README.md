@@ -16,7 +16,7 @@
 
 ## 설치 및 사용 방법
 
-1. `literature-data-extraction.skill` 다운로드
+1. [`literature-data-extraction.skill`](https://github.com/rnrnrnn1234/literature-data-extraction-claude-skill/raw/main/literature-data-extraction.skill) 다운로드
 2. Claude.ai → 대화창 "+" 클릭 → 스킬 클릭 → 스킬 관리 클릭 → "추가" 클릭 → "스킬 업로드" 클릭 → 다운로드 받은 스킬 업로드
 3. 대화창에 "+" 클릭 후 스킬 선택 → 논문 PDF 업로드 후 Enter
 4. Claude가 연구설계를 판별하고 기본 항목을 추출하여 표로 제시
@@ -69,7 +69,7 @@ A Claude skill that performs data extraction for literature reviews directly ins
 
 ## Installation & Usage
 
-1. Download `literature-data-extraction.skill`
+1. Download [`literature-data-extraction.skill`](https://github.com/rnrnrnn1234/literature-data-extraction-claude-skill/raw/main/literature-data-extraction.skill)
 2. In Claude.ai, click "+" in the chat box → Manage skills → Add → Upload skill → upload the downloaded file
 3. Click "+" in the chat box, select the skill, upload paper PDFs, and press Enter
 4. Claude identifies the study design and presents the extracted base items as a table

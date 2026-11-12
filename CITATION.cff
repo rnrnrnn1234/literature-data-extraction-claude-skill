@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "literature-data-extraction: A Claude skill for data extraction in literature reviews"
+type: software
+authors:
+  - family-names: Park
+    given-names: Soyeon
+    affiliation: "ANDA Lab, Seoul National University College of Nursing"
+version: "1.0"
+date-released: "2026-11-12"
+license: MIT
+repository-code: "https://github.com/rnrnrnn1234/literature-data-extraction-claude-skill"

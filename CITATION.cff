@@ -6,7 +6,7 @@ authors:
   - family-names: Park
     given-names: Soyeon
     affiliation: "ANDA Lab, Seoul National University College of Nursing"
-version: "1.0"
+version: "1.0.1"
 date-released: "2026-11-12"
 license: MIT
 repository-code: "https://github.com/rnrnrnn1234/literature-data-extraction-claude-skill"

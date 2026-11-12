@@ -4,6 +4,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
+[![DOI](https://zenodo.org/badge/1310891282.svg)](https://doi.org/10.5281/zenodo.24156717)
 
 ## 주요 기능
 
@@ -16,7 +17,7 @@
 
 ## 설치 및 사용 방법
 
-1. [`literature-data-extraction.skill`](https://github.com/rnrnrnn1234/literature-data-extraction-claude-skill/raw/main/literature-data-extraction.skill) 다운로드
+1. `literature-data-extraction.skill` 다운로드
 2. Claude.ai → 대화창 "+" 클릭 → 스킬 클릭 → 스킬 관리 클릭 → "추가" 클릭 → "스킬 업로드" 클릭 → 다운로드 받은 스킬 업로드
 3. 대화창에 "+" 클릭 후 스킬 선택 → 논문 PDF 업로드 후 Enter
 4. Claude가 연구설계를 판별하고 기본 항목을 추출하여 표로 제시
@@ -29,6 +30,9 @@
 - **추출값은 원문 대조 검증이 필요합니다.** 특히 표본수·효과크기 등 결과에 직결되는 수치는 표기된 위치에서 확인하세요.
 - 체계적 문헌고찰의 표준 절차는 2인 독립 추출 후 검토입니다. 이 도구는 그중 **1차 추출을 보조하는 용도**이며, 논문 방법 기술 시 AI 보조 추출 및 검증 절차를 명시하는 것을 권장합니다.
 
+## 인용
+
+Park S. (2026). literature-data-extraction: A Claude skill for data extraction in literature reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24156717
 
 ## 라이선스
 
@@ -52,8 +56,6 @@ ANDA Lab: https://andalab.snu.ac.kr/
 
 ---
 
-<br>
-
 # Literature Data Extraction — Claude Skill (English)
 
 A Claude skill that performs data extraction for literature reviews directly inside your conversation. No template preparation required — upload paper PDFs, review the extracted table, choose additional items suited to the study design, and download the finalized table as an Excel file.
@@ -69,7 +71,7 @@ A Claude skill that performs data extraction for literature reviews directly ins
 
 ## Installation & Usage
 
-1. Download [`literature-data-extraction.skill`](https://github.com/rnrnrnn1234/literature-data-extraction-claude-skill/raw/main/literature-data-extraction.skill)
+1. Download `literature-data-extraction.skill`
 2. In Claude.ai, click "+" in the chat box → Manage skills → Add → Upload skill → upload the downloaded file
 3. Click "+" in the chat box, select the skill, upload paper PDFs, and press Enter
 4. Claude identifies the study design and presents the extracted base items as a table
@@ -82,6 +84,9 @@ A Claude skill that performs data extraction for literature reviews directly ins
 - **All extracted values require verification against the original text**, especially sample sizes and effect sizes.
 - The standard procedure for systematic reviews is independent dual extraction followed by reconciliation. This tool assists **first-pass extraction only**; disclose AI-assisted extraction and your verification procedure in your methods section.
 
+## Citation
+
+Park S. (2026). literature-data-extraction: A Claude skill for data extraction in literature reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24156717
 
 ## License
 

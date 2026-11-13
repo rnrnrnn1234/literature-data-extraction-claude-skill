@@ -30,7 +30,7 @@
 - **추출값은 원문 대조 검증이 필요합니다.** 특히 표본수·효과크기 등 결과에 직결되는 수치는 표기된 위치에서 확인하세요.
 - 체계적 문헌고찰의 표준 절차는 2인 독립 추출 후 검토입니다. 이 도구는 그중 **1차 추출을 보조하는 용도**이며, 논문 방법 기술 시 AI 보조 추출 및 검증 절차를 명시하는 것을 권장합니다.
 
-## 인용
+## 인용하실 때는 아래 형식을 사용해 주세요
 
 Park S., Woo K. (2026). literature-data-extraction: A Claude skill for data extraction in literature reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24156717
 

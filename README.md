@@ -32,7 +32,7 @@
 
 ## 인용
 
-Park S. (2026). literature-data-extraction: A Claude skill for data extraction in literature reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24156717
+Park S., Woo K. (2026). literature-data-extraction: A Claude skill for data extraction in literature reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24156717
 
 ## 라이선스
 
